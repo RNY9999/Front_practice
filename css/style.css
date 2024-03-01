@@ -3,3 +3,20 @@ body {
     height: 100vh;
     background-color: #FFBE98;
 }
+
+.tip {
+    border: 1px solid #333;
+    padding: 16px;
+}
+
+/*
+# user-select
+*/
+
+.user-select__unselectable {
+    user-select: none;
+}
+
+.user-select__all {
+    user-select: all; /* 一回クリックすると全選択されるUXの向上に使えそう*/
+}
