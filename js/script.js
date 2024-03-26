@@ -23,3 +23,17 @@ console.log(password6);
 const password5 = generatePassword(5);
 console.log('5文字');
 console.log(password5);
+
+function simplePassword(length) {
+    const characters = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789';
+    let password = '';
+    for (let i = 0; i < length; i++) {
+        const randomIndex = Math.floor(Math.random() * characters.length);
+        password += characters[randomIndex];
+    }
+    return password;
+}
+
+console.log('簡単なパスワード');
+console.log('8文字');
+console.log(simplePassword(8));
