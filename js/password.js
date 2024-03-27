@@ -13,10 +13,12 @@ function inputData() {
     password.value = yourPass;
 
     // javascript:!function(){const userName = document.getElementsByTagName('input')[0];const password = document.getElementsByTagName('input')[1];const yourName = 'testHisamatsu';const yourPass = 'h1samatsuKE7IxI';userName.value = yourName;password.value = yourPass;}();
+    // javascript:!function(){const userName = document.getElementsByTagName('input')[0];const password = document.getElementsByTagName('input')[1];const yourName = 'hisamatsu+shinkatei@dcheck.jp';const yourPass = 'qwe098';userName.value = yourName;password.value = yourPass;}();
 
     // javascript:!function(){const userName = document.getElementsByTagName('input')[0];const password = document.getElementsByTagName('input')[1];const yourName = 'student+ippan@iret.co.jp';const yourPass = 'Abc12356';userName.value = yourName;password.value = yourPass;}();
 
     // javascript:!function(){const userName = document.getElementsByTagName('input')[1];const school = document.getElementsByTagName('input')[0];const password = document.getElementsByTagName('input')[2];const yourName = 'csv00001';const schoolCode = '04150';const yourPass = 'gdFS1GCi';userName.value = yourName;school.value = schoolCode;password.value = yourPass;}();
+    // javascript:!function(){const userName = document.getElementsByTagName('input')[1];const school = document.getElementsByTagName('input')[0];const password = document.getElementsByTagName('input')[2];const yourName = 'hsc04186';const schoolCode = '04186';const yourPass = 'pass0000';userName.value = yourName;school.value = schoolCode;password.value = yourPass;}();
 
     // javascript:!function(){console.log('start');const notifiedUsers = document.getElementsByName('jlplne');const notifiedUserIds = 'DC_増田';notifiedUsers.value = notifiedUserIds;console.log(notifiedUsers);}();
     // javascript:!function(){console.log('start');const notifiedUsers = document.getElementsByName('select2-choices')[0];console.log(notifiedUsers);}();
